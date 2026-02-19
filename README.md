@@ -1,5 +1,11 @@
 🚀 Kubernetes Profile-Based Deployment Generator
 
+projet réalisé par :
+-Rai Hibet Allah
+-Moulhabbas Hayette
+-Challal sabine
+-Fatou Bintou Sow
+
 ## 📌 Description
 
 Ce projet permet de générer automatiquement :
