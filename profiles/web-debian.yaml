@@ -1,0 +1,14 @@
+profile_id: web-debian-v1
+
+os: debian:12-slim
+
+packages:
+  - nginx
+  - curl
+
+network:
+  default_deny: true
+  ingress:
+    - from: ingress
+      protocol: tcp
+      port: 80
