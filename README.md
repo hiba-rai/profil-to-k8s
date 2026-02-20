@@ -180,7 +180,3 @@ Le projet implémente :
 5. Déploiement sur le cluster
 6. Application des règles réseau
 
-
-* ✅ Un schéma d’architecture à ajouter dans ton repo
-
-Dis-moi ce que tu préfères 👌
